@@ -47,14 +47,7 @@ justify-content: flex-end;
    margin-bottom: 50px;
 
 }
-.new-drop {
-    font-size: 40px;
-   color: black;
-   text-align: center;
-   margin-top: 50px;
-   margin-bottom: 50px;
 
-}
 .image1{
    height: 15cm; 
    
@@ -74,4 +67,7 @@ justify-content: flex-end;
 .product-1{
    height: 7cm;
 
+}
+.youtube{
+  padding-right: 11.5rem;
 }

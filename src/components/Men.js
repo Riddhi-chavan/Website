@@ -3,12 +3,12 @@ import Header from './Header'
 import './style.css';
 import Footer from './Footer'
 
-const New = () => {
+const Women = () => {
   return (
     <>
       <Header />
       <div className=' mx-auto text-center text-6xl font-bold pt-20 pb-20 border-b-2 bg-gradient-to-t   from-[#d6ff38] from-20%  via-[#e5fc8a] via-50% to-[#ffffff] '>
-        Shop Now
+        Shop For Men
       </div>
       <div className='flex '>
         <div>
@@ -109,4 +109,5 @@ const New = () => {
   )
 }
 
-export default New
+export default Women
+
