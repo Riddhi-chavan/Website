@@ -18,7 +18,7 @@ const Header = () => {
       </div>
 
       <nav className='flex flex-col md:flex-row md:h-auto w-full md:w-32'>
-        <div className='logo box-border md:h-19 px-20  md:w-40 py-6 md:px-16 border-e-2 border-black bg-[#d6ff38] md:inline-block'>
+        <div className='logo box-border md:h-19 px-20  md:w-40 py-6 md:px-16 border-e-2 border-black bg-[#d6ff38] md:inline-block  pl-12 '>
           <a href='#'>Logo</a>
         </div>
         <div className='flex items-center'>
